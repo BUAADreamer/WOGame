@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pot.h": "c",
+        "maingame.h": "c",
+        "time.h": "c",
+        "raylib.h": "c"
+    }
+}
